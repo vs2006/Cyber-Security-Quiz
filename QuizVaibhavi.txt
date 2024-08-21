@@ -1,0 +1,15 @@
+1. _____ is an injection attack to view and modify a database.
+a) Virus injection b)Decryption c) OGNL Injection d) SQL Injection
+D
+2. What is Cyber Ethics? 
+a) the act of maliciously getting a user’s data b) a set of morale rules to be followed in an online environment. c) hacking a computer d) threatening a user for ransom
+B
+3. What is DNS Poisoning? 
+A) An attack where web traffic is diverted from a legitimate website to fake one. B) Generation of unwanted ads on computer C) Use of technology to bully or harass a person. D) Encrypting data for protection
+A
+4. Which of the following is NOT a correct method to detect a phishing e-mail?
+A)click on the link in the e-mail to see if it's legitimate. B) check for grammatical errors in domain. C) check the e-mail signature. D) Look for awkward or unusual formatting.
+A
+5. Which of the following can be considered a strong password.
+a) qwerty b)1234 c) TU@45qc#! D)abcd
+C
